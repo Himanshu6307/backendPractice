@@ -4,7 +4,7 @@
   "description": "\"backend first time\"",
   "license": "ISC",
   "author": "himanshu",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": " nodemon index.js"
